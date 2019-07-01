@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Http\\Requests",
+    "\\public",
+    "\\public\\css",
+    "\\resources",
+    "\\resources\\js",
+    "\\resources\\sass",
+    "\\routes"
+  ],
+  "SelectedNode": "\\resources\\views\\testdrag.blade.php",
+  "PreviewInSolutionExplorer": false
+}
